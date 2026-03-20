@@ -29,7 +29,7 @@ An Android application built using Java and Android Studio to manage daily expen
 
 ---
 
-🚀 How to Run
+🚀 **How to Run**
 
 1. Clone the repository:
    ```bash
@@ -48,7 +48,7 @@ An Android application built using Java and Android Studio to manage daily expen
 
 ---
 
-🔥 Unique Highlights
+🔥 **Unique Highlights**
 
 Funny notification system (engaging UX)
 
@@ -58,7 +58,7 @@ Clean and responsive UI
 
 ---
 
-📈 Future Improvements
+📈 **Future Improvements**
 
 Firebase cloud sync
 
@@ -71,12 +71,12 @@ Dark mode 🌙
 Export reports (PDF/Excel)
 
 
-👨‍💻 Author
+👨‍💻 **Author**
 
 Nandeesh N K
 
 GitHub: https://github.com/nandeesh2799
 
-⭐ Support
+⭐ **Support**
 
 If you like this project, give it a star ⭐ on GitHub!
