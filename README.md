@@ -40,9 +40,9 @@
 |-------------|----------------|----------------|
 | ![Home](screenshots/home.png) | ![Add](screenshots/add_transaction.png) | ![Report](screenshots/monthly_report.png) |
 
-| Budget Progress | Notifications | Category Summary |
-|----------------|---------------|------------------|
-| ![Budget](screenshots/budget_progress.png) | ![Notification](screenshots/notification.png) | ![Category](screenshots/category_summary.png) |
+| Notifications | Category Summary |
+|---------------|------------------|
+| ![Notification](screenshots/notification.png) | ![Category](screenshots/category_summary.png) |
 
 ---
 
