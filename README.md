@@ -43,27 +43,7 @@
 | Budget Progress | Notifications | Category Summary |
 |----------------|---------------|------------------|
 | ![Budget](screenshots/budget_progress.png) | ![Notification](screenshots/notification.png) | ![Category](screenshots/category_summary.png) |
-# 💸 Expense Tracker Android App
 
-[![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg)](https://developer.android.com)
-[![Language](https://img.shields.io/badge/Language-Java-orange.svg)](https://www.java.com)
-[![IDE](https://img.shields.io/badge/IDE-Android_Studio-blue.svg)](https://developer.android.com/studio)
-[![Database](https://img.shields.io/badge/Database-SQLite-003B57.svg)](https://www.sqlite.org/)
-
-A professional, offline-first Android application built with **Java** to help users manage daily finances, monitor monthly budgets, and track spending habits through a modern, gradient-based UI.
-
----
-
-## 📱 Screenshots
-
-| Dashboard | Transactions | Budget Progress |
-| :---: | :---: | :---: |
-| <img src="screenshots/dashboard.png" width="200"> | <img src="screenshots/history.png" width="200"> | <img src="screenshots/budget.png" width="200"> |
-| *Modern Gradient UI* | *Transaction History* | *Visual Tracking* |
-
-> **Note:** Create a folder named `screenshots` in your repo and name your images `dashboard.png`, `history.png`, and `budget.png` for them to appear above.
-
----
 
 ## ✨ Features
 
