@@ -92,7 +92,7 @@
 
 ## 👨‍💻 Author
 
-**Nandeesh N K** * **GitHub:** [@nandeesh2799](https://github.com/nandeesh2799)
+**Nandeesh N K**   **GitHub:** [@nandeesh2799](https://github.com/nandeesh2799)
 
 ---
 
