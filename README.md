@@ -34,7 +34,6 @@
 
 ## 📸 Screenshots
 
-> *Add your screenshots inside the `screenshots/` folder and update the paths below.*
 
 | Home Screen | Add Transaction | Monthly Report |
 |-------------|----------------|----------------|
