@@ -50,7 +50,7 @@
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/nandeesh2799/expense-tracker.git](https://github.com/nandeesh2799/expense-tracker.git)
+    git clone https://github.com/nandeesh2799/expense-tracker.git
     ```
 2.  **Open in Android Studio**
     Launch Android Studio and select `Open an Existing Project`, then navigate to the cloned directory.
