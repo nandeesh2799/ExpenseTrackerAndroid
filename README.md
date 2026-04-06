@@ -38,12 +38,13 @@
 
 | Home Screen | Add Transaction | Monthly Report |
 |-------------|----------------|----------------|
-| ![Home](screenshots/Add Transaction.jpg) | ![Add](Screenshots/Add Transaction.jpg) | ![Report](screenshots/monthly_report.png) |
+| ![Home](screenshots/home.png) | ![Add](screenshots/add_transaction.png) | ![Report](screenshots/monthly_report.png) |
 
 | Budget Progress | Notifications | Category Summary |
 |----------------|---------------|------------------|
 | ![Budget](screenshots/budget_progress.png) | ![Notification](screenshots/notification.png) | ![Category](screenshots/category_summary.png) |
 
+---
 
 ## ✨ Features
 
