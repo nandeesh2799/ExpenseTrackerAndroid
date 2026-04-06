@@ -43,26 +43,6 @@
 |---------------|------------------|
 | ![Notification](screenshots/notification.png) | ![Category](screenshots/category_summary.png) |
 
----
-
-## ✨ Features
-
-* **🔄 Transaction Management:** Seamlessly add, view, and organize Income and Expense records.
-* **📊 Category Analytics:** Breakdown of spending by category for better financial insights.
-* **💰 Budget Tracker:** Set monthly limits with a dynamic progress bar to prevent overspending.
-* **🔔 Smart Notifications:** Engaging, "Swiggy/Zomato" style funny notifications to keep financial tracking fun.
-* **🎨 Premium UI:** Clean Material Design with modern gradient backgrounds.
-* **💾 Local Storage:** Powered by **SQLite** for fast, reliable, and offline data persistence.
-
----
-
-## 🛠️ Tech Stack
-
-* **Language:** Java
-* **IDE:** Android Studio
-* **Database:** SQLite
-* **UI/UX:** XML (Material Design Components)
-* **Version Control:** Git & GitHub
 
 ---
 
