@@ -1,10 +1,12 @@
 # 💸 Expense Tracker Android App
 
+[![Android CI](https://github.com/nandeesh2799/ExpenseTrackerAndroid/actions/workflows/ci.yml/badge.svg)](https://github.com/nandeesh2799/ExpenseTrackerAndroid/actions/workflows/ci.yml)
+[![Tests Passing](https://img.shields.io/badge/Unit%20Tests-16%2F16%20Passing-brightgreen?style=flat&logo=junit5)](https://github.com/nandeesh2799/ExpenseTrackerAndroid)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-**Expense Tracker** is a modern Android application built with Java and Android Studio. It helps you manage daily expenses, track income, monitor monthly budgets, and receive smart notifications — all with a clean, gradient‑styled UI.
+**Expense Tracker** is a modern Android application built with Java, SQLite, and Gradle. It helps users manage daily expenses, track income streams, monitor monthly budget utilization with real-time calculations, and receive smart reminders — all packaged in a clean Material Design gradient UI.
 
 ---
 
@@ -58,6 +60,29 @@
     Wait for Android Studio to sync dependencies.
 4.  **Run**
     Connect your physical device via USB or start an emulator and click the **Run (▶️)** button.
+
+---
+
+## 🧪 Automated Testing & CI/CD
+
+The repository includes a decoupled JUnit unit testing suite validating financial computation algorithms, currency parsing, and data models independently of the Android OS runtime.
+
+### Running Unit Tests locally
+
+```bash
+# Execute JVM unit tests (16 tests across FinancialCalculations, CurrencyUtils, and TransactionModel)
+./gradlew testDebugUnitTest
+```
+
+### Building the Debug APK
+
+```bash
+./gradlew assembleDebug
+```
+
+### Continuous Integration
+
+Every push and pull request against `main` or `master` triggers a GitHub Actions workflow (`.github/workflows/ci.yml`) running on Ubuntu with Temurin JDK 21 that validates all unit tests and compiles the debug APK.
 
 ---
 
